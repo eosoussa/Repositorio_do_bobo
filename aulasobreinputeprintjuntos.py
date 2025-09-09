@@ -1,0 +1,11 @@
+# Portugol (inteiro) | # Python (int)
+# Portugol (real)    | # Python (float)
+
+nome_carro = input("Digite o nome do carro:")
+valor_carro = float(input("Digite o valor do carro: "))
+consumor_por_litro = float(input("Digite o consumo por litro: "))
+print("-" * 25)
+print("| Carro:",nome_carro)
+print("| Valor: R$",valor_carro)
+print("| Consumor por litro:", consumor_por_litro)
+print("-" * 25)
